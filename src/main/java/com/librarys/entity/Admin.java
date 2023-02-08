@@ -5,7 +5,7 @@ import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @Data
-public class admin {
+public class Admin {
 
     private Integer adminId;
     private String adminName;
